@@ -1,6 +1,6 @@
 # 🎓 Campus Placement & Recruitment Tracker
-### Academic Major Project — Babu Banarasi Das University (BBDU)
-**Author & Lead Developer:** Shaswat Jaiswal  
+### Academic Project — Babu Banarasi Das University (BBDU)
+**Author :** Shaswat Jaiswal  
 **University Roll No:** 1250258419
 **Degree & Specialization:** BCA (Data Science & Artificial Intelligence)  
 **Database Technology:** MongoDB Community Server 8.3 & MongoDB Compass  
