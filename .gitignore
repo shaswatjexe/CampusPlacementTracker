@@ -5,6 +5,10 @@ target/
 # Log files
 *.log
 
+# Temporary Word / Office lock files
+~$*
+.~lock.*
+
 # IDE specific files
 .idea/
 *.iml
