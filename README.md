@@ -1,7 +1,7 @@
 # 🎓 Campus Placement & Recruitment Tracker
 ### Academic Project — Babu Banarasi Das University (BBDU)
 **Author :** Shaswat Jaiswal  
-**University Roll No:** 1250258419
+
 **Degree & Specialization:** BCA (Data Science & Artificial Intelligence)  
 **Database Technology:** MongoDB Community Server 8.3 & MongoDB Compass  
 **Application Stack:** Java SE 26 (Runtime target 17+), Maven 3.9.9, MongoDB Synchronous Java Driver (`org.mongodb:mongodb-driver-sync`)
@@ -27,7 +27,7 @@ The **Campus Placement & Recruitment Tracker** is a production-grade, enterprise
 ### Phase 2: Core Data Ingestion & Seeding
 * **Single Student Profile Entry (`insertOne`):** Interactive console and graphical form for manual ingestion with validation.
 * **Bulk Production Ingestion (`insertMany`):** Pre-seeded with **72 production-grade records** (exceeding the university requirement of >=65 records) spanning multiple departments:
-  - `BCA DS & AI` (Featuring lead profile: **Shaswat Jaiswal, Roll No: 26 / 12502**)
+  - `BCA DS & AI` (Featuring lead profile: **Shaswat Jaiswal**)
   - `B.Tech CSE` (Computer Science & Engineering)
   - `B.Tech IT` (Information Technology)
   - `MCA` (Master of Computer Applications)
